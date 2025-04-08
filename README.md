@@ -2,6 +2,9 @@
 
 ## Creación de una Lista de Tareas en React con Desarrollo Basado en Componentes
 
+![Lista de Tareas en React](https://github.com/user-attachments/assets/15583ecf-79c1-4ed6-90b5-3f490e828735)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
