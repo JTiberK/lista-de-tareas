@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Lista de Tareas en React
+
+## Creación de una Lista de Tareas en React con Desarrollo Basado en Componentes
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
